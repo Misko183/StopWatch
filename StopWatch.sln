@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StopWatch.Android", "StopWatch\StopWatch.Android\StopWatch.Android.csproj", "{6916899C-71E4-4FF0-AA7F-29A3D61C4855}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StopWatch", "StopWatch\StopWatch\StopWatch.csproj", "{7906043D-34CC-47BC-9E7D-B5BE46591803}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6916899C-71E4-4FF0-AA7F-29A3D61C4855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6916899C-71E4-4FF0-AA7F-29A3D61C4855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6916899C-71E4-4FF0-AA7F-29A3D61C4855}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6916899C-71E4-4FF0-AA7F-29A3D61C4855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6916899C-71E4-4FF0-AA7F-29A3D61C4855}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6916899C-71E4-4FF0-AA7F-29A3D61C4855}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{7906043D-34CC-47BC-9E7D-B5BE46591803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7906043D-34CC-47BC-9E7D-B5BE46591803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7906043D-34CC-47BC-9E7D-B5BE46591803}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7906043D-34CC-47BC-9E7D-B5BE46591803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7906043D-34CC-47BC-9E7D-B5BE46591803}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7906043D-34CC-47BC-9E7D-B5BE46591803}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16CAD745-9995-44FD-9175-9E7816C46E4B}
+	EndGlobalSection
+EndGlobal
